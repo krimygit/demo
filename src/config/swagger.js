@@ -3,9 +3,9 @@ const swaggerJSDoc = require("swagger-jsdoc");
 const swaggerDefinition = {
   openapi: "3.0.0",
   info: {
-    title: "SUKAI API",
+    title: "Demo API",
     version: "1.0.0",
-    description: `SUKAI API Collection`,
+    description: `Demo API Collection`,
   },
   servers: [
     {
