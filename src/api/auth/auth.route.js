@@ -9,7 +9,6 @@ var upload = multer({ storage: storage });
 const auth = require('../../middlewares/auth');
 
 
-
 /**
  * @swagger
  * /auth/registerAdmin:
